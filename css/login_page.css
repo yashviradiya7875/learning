@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.section1{
+    background-color: rgb(255, 255, 255);
+    height: 660px;
+    text-align: center;
+   
+       
+}
+
+
+.section2{
+    
+    background-color: #FAF9F6;
+    display: inline-block;
+    height: 500px;
+    width: 600px;
+    box-shadow: 0px 0px 10px -7px black;
+    margin-top: 90px;
+    color: #FF5733;
+    padding: 40px;
+    align-items: left;
+    justify-content: left;
+
+          
+}
+
+.section2 input{
+
+    height: 40px;
+    width: 300px;
+    border-radius: 8px;
+    padding: 6px;
+    margin-top: 12px;
+    border: none;
+    box-shadow: inset 0px 0px 10px -7px black;
+    text-align: center;
+    
+}
+
+.log_email{
+    padding-top: 16px;
+}
+
+.box{
+    display: inline-block;
+    height: 40px;
+    border-radius: 8px;
+    border: 1px solid #FF5733;
+    width: 300px;
+    text-align: center;
+    padding: 8px;
+    cursor: pointer;
+
+}
+
+.box a{
+    text-decoration: none;
+    color: #ff6161;
+}
+
+.span{   
+    font-weight: 700;
+}
+
+
+.google_logo{
+    float: left;
+    height: 20px;
+   
+}
+.facebook_logo{
+    float: left;
+    height: 20px;
+}
+
+.facebook{
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+.google{
+    margin-bottom: 16px;
+}
+
+.btn_position{
+
+    margin-top: 40px;
+}
+
+.btn_font{
+
+    font-size: larger;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
